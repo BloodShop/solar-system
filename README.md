@@ -18,3 +18,5 @@ npm install parcel -g
 ```
 parcel .\src\index.html 
 ```
+
+![Solar-System](https://user-images.githubusercontent.com/23366804/210348565-3433d393-45ab-42cd-8d34-4caf22898c75.png)
